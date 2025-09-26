@@ -1,0 +1,59 @@
+.text_section
+{
+    padding-left: 480px;
+    font-family: "Crete Round";
+}
+
+.mix
+{
+    
+    font-size: 24px;
+    margin: 60px 0 89px 0;
+}
+
+.main_title
+{
+    font-size: 58px;
+    letter-spacing: 3px;
+    line-height: 64px;
+    color: #060c31;
+    font-weight: 400;   
+    margin-bottom: 36px;
+    width: 492px;
+}
+
+.text
+{
+    width: 416px;
+    font-family: "Lato";
+    line-height: 1.5;
+}
+
+.buttns
+{
+    margin: 47px 0 28px 480px;
+}
+
+.but_n
+{
+    display:inline-block;
+    font-size: 11px;
+    font-family: "Lato";
+    border: 1px solid;
+    border-radius: 25px;
+    border: 1px solid #ffb0b1;
+    text-align: center;
+    padding: 20px 35px;
+}
+
+.but_n:hover
+{
+    border-radius: 25px;
+    background-color: #233fe2;
+	border: none;
+    cursor:pointer;
+}
+img
+{
+	padding-left: 451px;
+}
